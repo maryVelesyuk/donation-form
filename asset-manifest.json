@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.727fd5b7.chunk.css",
-    "main.js": "./static/js/main.effe7dce.chunk.js",
-    "main.js.map": "./static/js/main.effe7dce.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.029f6a2f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.029f6a2f.js.map",
-    "static/js/2.06a610d5.chunk.js": "./static/js/2.06a610d5.chunk.js",
-    "static/js/2.06a610d5.chunk.js.map": "./static/js/2.06a610d5.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.727fd5b7.chunk.css.map": "./static/css/main.727fd5b7.chunk.css.map",
-    "static/js/2.06a610d5.chunk.js.LICENSE.txt": "./static/js/2.06a610d5.chunk.js.LICENSE.txt"
+    "main.css": "/donation-form/static/css/main.727fd5b7.chunk.css",
+    "main.js": "/donation-form/static/js/main.effe7dce.chunk.js",
+    "main.js.map": "/donation-form/static/js/main.effe7dce.chunk.js.map",
+    "runtime-main.js": "/donation-form/static/js/runtime-main.c88862bc.js",
+    "runtime-main.js.map": "/donation-form/static/js/runtime-main.c88862bc.js.map",
+    "static/js/2.06a610d5.chunk.js": "/donation-form/static/js/2.06a610d5.chunk.js",
+    "static/js/2.06a610d5.chunk.js.map": "/donation-form/static/js/2.06a610d5.chunk.js.map",
+    "index.html": "/donation-form/index.html",
+    "static/css/main.727fd5b7.chunk.css.map": "/donation-form/static/css/main.727fd5b7.chunk.css.map",
+    "static/js/2.06a610d5.chunk.js.LICENSE.txt": "/donation-form/static/js/2.06a610d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.029f6a2f.js",
+    "static/js/runtime-main.c88862bc.js",
     "static/js/2.06a610d5.chunk.js",
     "static/css/main.727fd5b7.chunk.css",
     "static/js/main.effe7dce.chunk.js"
