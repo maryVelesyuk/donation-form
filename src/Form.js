@@ -28,7 +28,7 @@ const CustomForm = () => {
           .required("Необходимо согласие")
           .oneOf([true], "Необходимо согласие"),
       })}
-      onSubmit={(values) => console.log(JSON.stringify(values, null, 2))}
+      onSubmit={(values) => alert(JSON.stringify(values, null, 2))}
     >
       <Form className="form">
         <h2>Отправить пожертвование</h2>
